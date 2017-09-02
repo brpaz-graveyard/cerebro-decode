@@ -1,7 +1,7 @@
 {
   "name": "cerebro-decode",
   "version": "1.0.0",
-  "description": "Cerebro plugin for decoing strings into multiple formats like Base64, HTML or URL.",
+  "description": "Cerebro plugin for decoding strings into multiple formats like Base64, HTML or URL. The oposite of cerebro-encode plugin.",
   "author": {
     "name": "Bruno Paz",
     "email": "brunopaz@sapo.pt",
